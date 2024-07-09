@@ -24,7 +24,7 @@ Scrum
 Project Management
 Team Leadership
 Communication Skills
-Problem Solving
+Problem-Solving
 Creativity
 Continuous Learning
 Technical Writing
