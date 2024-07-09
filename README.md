@@ -12,15 +12,9 @@ React
 Angular
 Vue.js
 PHP
-Python
-Ruby
 MySQL
-MongoDB
-SQL Server
 RESTful APIs
 Git
-Agile Development
-Scrum
 Project Management
 Team Leadership
 Communication Skills
