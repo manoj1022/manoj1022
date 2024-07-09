@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manoj-fullStack web developer with 10 years of experience:
+- 👋 Hi, I’m Manoj Thakural web developer with 10 years of experience:
 
 Web Development
 Front-End Development
